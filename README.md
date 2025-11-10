@@ -8,5 +8,5 @@ can be hosted in a  Remote Desktop / VDesk. <br>
 Download `app.py`. Run via `streamlit run app.py`
 
 
-![Snap1] (resources/snap1.png)
-![Snap2] (resources/snap2.png)
+![Snap1](resources/snap1.png)
+![Snap2](resources/snap2.png)
